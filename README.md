@@ -1,6 +1,6 @@
 # 📦 Banco de Dados - New E-commerce
 
-## 🚀 Sobre o Projeto DIO.me
+## 🚀 Sobre o Projeto 
 Este repositório contém a modelagem e implementação de um banco de dados relacional para um sistema de **e-commerce**. Ele foi projetado para gerenciar clientes, produtos, pedidos, pagamentos, vendedores e fornecedores, garantindo integridade e eficiência na busca e armazenamento dos dados.
 
 ## 🛠 Tecnologias Utilizadas
@@ -37,5 +37,6 @@ Este projeto está licenciado sob a licença MIT. Consulte o arquivo [LICENSE](h
 ![github (2)](https://github.com/user-attachments/assets/877894f3-1f69-4c0e-8b2d-4973e8db0933)
 [GitHub](https://github.com/julianamaula)
 
-Feito com ❤️ por Juliana de Maula 
+Feito com ❤️ por Juliana de Maula     
+Desafio [DIO.me](https://www.dio.me/)
 
