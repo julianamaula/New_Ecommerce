@@ -22,8 +22,20 @@ O banco de dados foi modelado com chaves primárias, estrangeiras e constraints 
 4. **Faça as alterações** e realize commits com mensagens claras
 5. **Envie um Pull Request** para revisão
 
-## 📄 Licença
-Este projeto está sob a licença MIT. Sinta-se à vontade para utilizá-lo e aprimorá-lo!
+Este projeto está licenciado sob a licença MIT. Consulte o arquivo [LICENSE](https://github.com/julianamaula/New_Ecommerce/blob/main/LICENSE) para mais detalhes.
 
 ---
+
+## ✉️ **Contato**
+
 💡 *Dúvidas ou sugestões? Entre em contato ou abra uma issue!* 
+
+
+![linkedin (3)](https://github.com/user-attachments/assets/591bf907-a554-42e7-81a3-c7fcc810e087)
+[LinkedIn](https://www.linkedin.com/in/juliana-de-maula)
+
+![github (2)](https://github.com/user-attachments/assets/877894f3-1f69-4c0e-8b2d-4973e8db0933)
+[GitHub](https://github.com/julianamaula)
+
+Feito com ❤️ por Juliana de Maula 
+
