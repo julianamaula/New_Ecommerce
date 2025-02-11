@@ -1,6 +1,6 @@
 # 📦 Banco de Dados - New E-commerce
 
-## 🚀 Sobre o Projeto
+## 🚀 Sobre o Projeto DIO.me
 Este repositório contém a modelagem e implementação de um banco de dados relacional para um sistema de **e-commerce**. Ele foi projetado para gerenciar clientes, produtos, pedidos, pagamentos, vendedores e fornecedores, garantindo integridade e eficiência na busca e armazenamento dos dados.
 
 ## 🛠 Tecnologias Utilizadas
