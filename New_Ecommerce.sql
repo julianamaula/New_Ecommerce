@@ -1,6 +1,4 @@
--- drop database New_Ecommerce;
-
-create database New_Ecommerce;
+CREATE database New_Ecommerce;
 use New_Ecommerce;
 
 -- Criação das tabelas
@@ -66,27 +64,27 @@ CREATE TABLE productStorage (
 );
 
 
-
+-- Criando tabela de fornecedor
 CREATE TABLE supplier (
-		idSupplier INT AUTO_INCREMENT PRIMARY KEY,
+	idSupplier INT AUTO_INCREMENT PRIMARY KEY,
         SocialName VARCHAR(255) NOT NULL,
-	    CNPJ CHAR (15) NOT NULL,
+	CNPJ CHAR (15) NOT NULL,
         contact CHAR (11) NOT NULL,
         CONSTRAINT unique_supplier UNIQUE (CNPJ)
         
         );
         
-	
-create table seller  (
-		idSeller INT AUTO_INCREMENT PRIMARY KEY,
-        SocialName VARCHAR(255) NOT NULL,
-        AbstName varchar (255),
-	    CNPJ CHAR(15),
-        CPF CHAR (11),
-        location VARCHAR (255),
-        contact CHAR (11) NOT NULL,
-        CONSTRAINT unique_cnpj_seller UNIQUE (CNPJ),
-        CONSTRAINT unique_cpf_seller UNIQUE (CPF)
+-- Criando tabela de vendedor	
+CREATE TABLE seller  (
+	idSeller INT AUTO_INCREMENT PRIMARY KEY,
+	SocialName VARCHAR(255) NOT NULL,
+	AbstName varchar (255),
+	CNPJ CHAR(15),
+	CPF CHAR (11),
+	location VARCHAR (255),
+	contact CHAR (11) NOT NULL,
+	CONSTRAINT unique_cnpj_seller UNIQUE (CNPJ),
+	CONSTRAINT unique_cpf_seller UNIQUE (CPF)
         
         );
 
